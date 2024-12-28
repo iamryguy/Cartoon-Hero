@@ -1,0 +1,6 @@
+body{background-color: antiquewhite;}
+h1{font-size: 30px; color: black}
+h2{font-size: 20px; color: aqua;}
+.big{font-size: 60px;}
+.uppercase{text-transform: uppercase;}
+.big.uppercase{color: blue;}

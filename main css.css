@@ -14,8 +14,9 @@ header img {width: 200px; height: 200px}
 
 header h1 {color: #005b5d;
     font-weight: bolder;
-    font-size: 64px;
-    line-height: 82px;}
+    font-size: 64px;}
+
+h1 {line-height: 84px;}
 
 h1, h2 {
     font-family: "Roboto", sans-serif;

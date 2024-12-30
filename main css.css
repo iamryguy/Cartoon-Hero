@@ -3,6 +3,8 @@ body {margin: 0;}
 body {font-family: Arial, Helvetica, sans-serif;
     line-height: 34px;}
 
+    /* header styles */
+
 header {background-color: #e0f9f0;
     text-align: center;
     padding-top: 50px;
@@ -12,7 +14,8 @@ header img {width: 200px; height: 200px}
 
 header h1 {color: #005b5d;
     font-weight: bolder;
-    font-size: 64px;}
+    font-size: 64px;
+    line-height: 82px;}
 
 h1, h2 {
     font-family: "Roboto", sans-serif;
@@ -23,6 +26,8 @@ h1, h2 {
 h2 {font-size: 36px;
     text-align: center;
     margin: 80px 0px;}
+
+    /* main styles*/
 
 p {font-size: 22px;}
 
